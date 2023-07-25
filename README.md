@@ -1,0 +1,1 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/79xrjxp94ixsci3i?svg=true)](https://ci.appveyor.com/project/smartcookiem/selenide2-1)
